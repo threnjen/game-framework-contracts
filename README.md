@@ -62,6 +62,7 @@ The main data model is `ServerMessage`, which wraps server-originated payloads a
 
 ## Documentation
 
+- [Ecosystem Overview](docs/ECOSYSTEM.md)
 - [Architecture](docs/ARCHITECTURE.md)
 - [Codebase Context](docs/CODEBASE_CONTEXT.md)
 - [Local Development](docs/LOCAL_DEVELOPMENT.md)
